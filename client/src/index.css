@@ -1,0 +1,15 @@
+.folder{
+  margin-top: 6px;
+  background-color: #dfdede;
+  width: 300px;
+  padding: 3px;
+  cursor: pointer;
+  justify-content: space-between;
+}
+
+.file{
+  margin-top: 5px;
+  padding-left: 5px;
+  display: flex;
+  flex-direction: column;
+}
